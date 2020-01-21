@@ -1,9 +1,8 @@
 def my_hash
   about = {
-    "name" => "Erin"
+    "name" => "Erin",
     "city" => "NY"
   }
-
 end
 
 
